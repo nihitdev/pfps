@@ -1,6 +1,6 @@
 # Profile pictures
 
-A personal collection of 33 profile pictures.
+A personal collection of 35 profile pictures.
 
 Artwork belongs to its respective creators.
 
@@ -39,3 +39,5 @@ Artwork belongs to its respective creators.
 | <img src="pfps/white-haired-anime-boy-sunset-road.jpeg" width="120" alt="white-haired-anime-boy-sunset-road"> | [white-haired-anime-boy-sunset-road.jpeg](pfps/white-haired-anime-boy-sunset-road.jpeg) |
 | <img src="pfps/anime-boy-snowy-forest-matching-profile.jpeg" width="120" alt="anime-boy-snowy-forest-matching-profile"> | [anime-boy-snowy-forest-matching-profile.jpeg](pfps/anime-boy-snowy-forest-matching-profile.jpeg) |
 | <img src="pfps/anime-girl-snowy-forest-matching-profile.jpeg" width="120" alt="anime-girl-snowy-forest-matching-profile"> | [anime-girl-snowy-forest-matching-profile.jpeg](pfps/anime-girl-snowy-forest-matching-profile.jpeg) |
+| <img src="pfps/anime-girl-library-matching-profile.jpeg" width="120" alt="anime-girl-library-matching-profile"> | [anime-girl-library-matching-profile.jpeg](pfps/anime-girl-library-matching-profile.jpeg) |
+| <img src="pfps/anime-boy-library-matching-profile.jpeg" width="120" alt="anime-boy-library-matching-profile"> | [anime-boy-library-matching-profile.jpeg](pfps/anime-boy-library-matching-profile.jpeg) |
