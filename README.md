@@ -1,6 +1,6 @@
 # Profile pictures
 
-A personal collection of 42 profile pictures.
+A personal collection of 44 profile pictures.
 
 Artwork belongs to its respective creators.
 
@@ -48,3 +48,5 @@ Artwork belongs to its respective creators.
 | <img src="pfps/silver-haired-fantasy-man-straw-hat-matching-profile.jpg" width="120" alt="silver-haired-fantasy-man-straw-hat-matching-profile"> | [silver-haired-fantasy-man-straw-hat-matching-profile.jpg](pfps/silver-haired-fantasy-man-straw-hat-matching-profile.jpg) |
 | <img src="pfps/anime-girl-flower-hairpin-matching-profile.jpg" width="120" alt="anime-girl-flower-hairpin-matching-profile"> | [anime-girl-flower-hairpin-matching-profile.jpg](pfps/anime-girl-flower-hairpin-matching-profile.jpg) |
 | <img src="pfps/garou-cosmic-form.jpg" width="120" alt="Garou cosmic form"> | [garou-cosmic-form.jpg](pfps/garou-cosmic-form.jpg) |
+| <img src="pfps/man-in-tuxedo-portrait.jpg" width="120" alt="man-in-tuxedo-portrait"> | [man-in-tuxedo-portrait.jpg](pfps/man-in-tuxedo-portrait.jpg) |
+| <img src="pfps/anime-boy-monochrome-smoke-portrait.jpg" width="120" alt="anime-boy-monochrome-smoke-portrait"> | [anime-boy-monochrome-smoke-portrait.jpg](pfps/anime-boy-monochrome-smoke-portrait.jpg) |
