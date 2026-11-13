@@ -1,6 +1,6 @@
 # Profile pictures
 
-A personal collection of 35 profile pictures.
+A personal collection of 41 profile pictures.
 
 Artwork belongs to its respective creators.
 
@@ -41,3 +41,9 @@ Artwork belongs to its respective creators.
 | <img src="pfps/anime-girl-snowy-forest-matching-profile.jpeg" width="120" alt="anime-girl-snowy-forest-matching-profile"> | [anime-girl-snowy-forest-matching-profile.jpeg](pfps/anime-girl-snowy-forest-matching-profile.jpeg) |
 | <img src="pfps/anime-girl-library-matching-profile.jpeg" width="120" alt="anime-girl-library-matching-profile"> | [anime-girl-library-matching-profile.jpeg](pfps/anime-girl-library-matching-profile.jpeg) |
 | <img src="pfps/anime-boy-library-matching-profile.jpeg" width="120" alt="anime-boy-library-matching-profile"> | [anime-boy-library-matching-profile.jpeg](pfps/anime-boy-library-matching-profile.jpeg) |
+| <img src="pfps/anime-girl-classroom-matching-profile.jpg" width="120" alt="anime-girl-classroom-matching-profile"> | [anime-girl-classroom-matching-profile.jpg](pfps/anime-girl-classroom-matching-profile.jpg) |
+| <img src="pfps/anime-boy-classroom-matching-profile.jpg" width="120" alt="anime-boy-classroom-matching-profile"> | [anime-boy-classroom-matching-profile.jpg](pfps/anime-boy-classroom-matching-profile.jpg) |
+| <img src="pfps/anime-boy-ponytail-matching-profile.jpg" width="120" alt="anime-boy-ponytail-matching-profile"> | [anime-boy-ponytail-matching-profile.jpg](pfps/anime-boy-ponytail-matching-profile.jpg) |
+| <img src="pfps/dark-haired-fantasy-man-garden-matching-profile.jpg" width="120" alt="dark-haired-fantasy-man-garden-matching-profile"> | [dark-haired-fantasy-man-garden-matching-profile.jpg](pfps/dark-haired-fantasy-man-garden-matching-profile.jpg) |
+| <img src="pfps/silver-haired-fantasy-man-straw-hat-matching-profile.jpg" width="120" alt="silver-haired-fantasy-man-straw-hat-matching-profile"> | [silver-haired-fantasy-man-straw-hat-matching-profile.jpg](pfps/silver-haired-fantasy-man-straw-hat-matching-profile.jpg) |
+| <img src="pfps/anime-girl-flower-hairpin-matching-profile.jpg" width="120" alt="anime-girl-flower-hairpin-matching-profile"> | [anime-girl-flower-hairpin-matching-profile.jpg](pfps/anime-girl-flower-hairpin-matching-profile.jpg) |
