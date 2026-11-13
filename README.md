@@ -1,52 +1,54 @@
 # Profile pictures
 
-A personal collection of 44 profile pictures.
+A personal collection of 44 pictures: **22 individual pictures** and **11 matching sets**.
+
+[Individual pictures](#individual-pictures) · [Matching sets](#matching-sets)
+
+Browse the folders: [individual](pfps/individual/) · [matching](pfps/matching/)
 
 Artwork belongs to its respective creators.
 
+## Matching sets
+
+Each set has its own folder. Click a preview to open the picture.
+
+| Set | Picture 1 | Picture 2 |
+| --- | --- | --- |
+| [Cherry blossoms](pfps/matching/cherry-blossoms/) | <a href="pfps/matching/cherry-blossoms/anime-boy-cherry-blossoms-matching-profile.jpeg"><img src="pfps/matching/cherry-blossoms/anime-boy-cherry-blossoms-matching-profile.jpeg" width="160" alt="anime-boy-cherry-blossoms-matching-profile"></a> | <a href="pfps/matching/cherry-blossoms/anime-girl-cherry-blossoms-matching-profile.jpeg"><img src="pfps/matching/cherry-blossoms/anime-girl-cherry-blossoms-matching-profile.jpeg" width="160" alt="anime-girl-cherry-blossoms-matching-profile"></a> |
+| [Classroom](pfps/matching/classroom/) | <a href="pfps/matching/classroom/anime-boy-classroom-matching-profile.jpg"><img src="pfps/matching/classroom/anime-boy-classroom-matching-profile.jpg" width="160" alt="anime-boy-classroom-matching-profile"></a> | <a href="pfps/matching/classroom/anime-girl-classroom-matching-profile.jpg"><img src="pfps/matching/classroom/anime-girl-classroom-matching-profile.jpg" width="160" alt="anime-girl-classroom-matching-profile"></a> |
+| [Library](pfps/matching/library/) | <a href="pfps/matching/library/anime-boy-library-matching-profile.jpeg"><img src="pfps/matching/library/anime-boy-library-matching-profile.jpeg" width="160" alt="anime-boy-library-matching-profile"></a> | <a href="pfps/matching/library/anime-girl-library-matching-profile.jpeg"><img src="pfps/matching/library/anime-girl-library-matching-profile.jpeg" width="160" alt="anime-girl-library-matching-profile"></a> |
+| [Snowy forest](pfps/matching/snowy-forest/) | <a href="pfps/matching/snowy-forest/anime-boy-snowy-forest-matching-profile.jpeg"><img src="pfps/matching/snowy-forest/anime-boy-snowy-forest-matching-profile.jpeg" width="160" alt="anime-boy-snowy-forest-matching-profile"></a> | <a href="pfps/matching/snowy-forest/anime-girl-snowy-forest-matching-profile.jpeg"><img src="pfps/matching/snowy-forest/anime-girl-snowy-forest-matching-profile.jpeg" width="160" alt="anime-girl-snowy-forest-matching-profile"></a> |
+| [Flower hairpin](pfps/matching/flower-hairpin/) | <a href="pfps/matching/flower-hairpin/anime-boy-ponytail-matching-profile.jpg"><img src="pfps/matching/flower-hairpin/anime-boy-ponytail-matching-profile.jpg" width="160" alt="anime-boy-ponytail-matching-profile"></a> | <a href="pfps/matching/flower-hairpin/anime-girl-flower-hairpin-matching-profile.jpg"><img src="pfps/matching/flower-hairpin/anime-girl-flower-hairpin-matching-profile.jpg" width="160" alt="anime-girl-flower-hairpin-matching-profile"></a> |
+| [Fantasy garden](pfps/matching/fantasy-garden/) | <a href="pfps/matching/fantasy-garden/dark-haired-fantasy-man-garden-matching-profile.jpg"><img src="pfps/matching/fantasy-garden/dark-haired-fantasy-man-garden-matching-profile.jpg" width="160" alt="dark-haired-fantasy-man-garden-matching-profile"></a> | <a href="pfps/matching/fantasy-garden/silver-haired-fantasy-man-straw-hat-matching-profile.jpg"><img src="pfps/matching/fantasy-garden/silver-haired-fantasy-man-straw-hat-matching-profile.jpg" width="160" alt="silver-haired-fantasy-man-straw-hat-matching-profile"></a> |
+| [Ayanokoji & Horikita](pfps/matching/ayanokoji-and-horikita/) | <a href="pfps/matching/ayanokoji-and-horikita/kiyotaka-ayanokoji-matching-profile.jpeg"><img src="pfps/matching/ayanokoji-and-horikita/kiyotaka-ayanokoji-matching-profile.jpeg" width="160" alt="kiyotaka-ayanokoji-matching-profile"></a> | <a href="pfps/matching/ayanokoji-and-horikita/suzune-horikita-matching-profile.jpeg"><img src="pfps/matching/ayanokoji-and-horikita/suzune-horikita-matching-profile.jpeg" width="160" alt="suzune-horikita-matching-profile"></a> |
+| [Sasaki & Miyano](pfps/matching/sasaki-and-miyano/) | <a href="pfps/matching/sasaki-and-miyano/sasaki-resting-on-classroom-desk.jpeg"><img src="pfps/matching/sasaki-and-miyano/sasaki-resting-on-classroom-desk.jpeg" width="160" alt="sasaki-resting-on-classroom-desk"></a> | <a href="pfps/matching/sasaki-and-miyano/miyano-hiding-behind-book.jpeg"><img src="pfps/matching/sasaki-and-miyano/miyano-hiding-behind-book.jpeg" width="160" alt="miyano-hiding-behind-book"></a> |
+| [School uniforms](pfps/matching/school-uniforms/) | <a href="pfps/matching/school-uniforms/anime-schoolboy-suit-and-tie.jpeg"><img src="pfps/matching/school-uniforms/anime-schoolboy-suit-and-tie.jpeg" width="160" alt="anime-schoolboy-suit-and-tie"></a> | <a href="pfps/matching/school-uniforms/silver-haired-anime-schoolgirl.jpeg"><img src="pfps/matching/school-uniforms/silver-haired-anime-schoolgirl.jpeg" width="160" alt="silver-haired-anime-schoolgirl"></a> |
+| [Rintaro & Waguri](pfps/matching/rintaro-and-waguri/) | <a href="pfps/matching/rintaro-and-waguri/Rintaro.jpg"><img src="pfps/matching/rintaro-and-waguri/Rintaro.jpg" width="160" alt="Rintaro"></a> | <a href="pfps/matching/rintaro-and-waguri/Waguri%20Kaoruko%20matching%20pfp.jpg"><img src="pfps/matching/rintaro-and-waguri/Waguri%20Kaoruko%20matching%20pfp.jpg" width="160" alt="Waguri Kaoruko matching pfp"></a> |
+| [Denji & Reze](pfps/matching/denji-and-reze/) | <a href="pfps/matching/denji-and-reze/denji.jpg"><img src="pfps/matching/denji-and-reze/denji.jpg" width="160" alt="denji"></a> | <a href="pfps/matching/denji-and-reze/reze"><img src="pfps/matching/denji-and-reze/reze" width="160" alt="reze"></a> |
+
+## Individual pictures
+
 | Picture | Filename |
 | --- | --- |
-| <img src="pfps/L%20lawliet%20icon.jpeg" width="120" alt="L lawliet icon"> | [L lawliet icon.jpeg](pfps/L%20lawliet%20icon.jpeg) |
-| <img src="pfps/Nagi%20Seishiro%20summer%20pfp.jpeg" width="120" alt="Nagi Seishiro summer pfp"> | [Nagi Seishiro summer pfp.jpeg](pfps/Nagi%20Seishiro%20summer%20pfp.jpeg) |
-| <img src="pfps/Nagi-at-MCd.jpeg" width="120" alt="Nagi-at-MCd"> | [Nagi-at-MCd.jpeg](pfps/Nagi-at-MCd.jpeg) |
-| <img src="pfps/Rintaro.jpg" width="120" alt="Rintaro"> | [Rintaro.jpg](pfps/Rintaro.jpg) |
-| <img src="pfps/Waguri%20Kaoruko%20matching%20pfp.jpg" width="120" alt="Waguri Kaoruko matching pfp"> | [Waguri Kaoruko matching pfp.jpg](pfps/Waguri%20Kaoruko%20matching%20pfp.jpg) |
-| <img src="pfps/Yuji.jpeg" width="120" alt="Yuji"> | [Yuji.jpeg](pfps/Yuji.jpeg) |
-| <img src="pfps/anime-boy-cherry-blossoms-matching-profile.jpeg" width="120" alt="anime-boy-cherry-blossoms-matching-profile"> | [anime-boy-cherry-blossoms-matching-profile.jpeg](pfps/anime-boy-cherry-blossoms-matching-profile.jpeg) |
-| <img src="pfps/anime-couple-flower-garden.jpg" width="120" alt="anime-couple-flower-garden"> | [anime-couple-flower-garden.jpg](pfps/anime-couple-flower-garden.jpg) |
-| <img src="pfps/anime-couple-snowy-night.jpeg" width="120" alt="anime-couple-snowy-night"> | [anime-couple-snowy-night.jpeg](pfps/anime-couple-snowy-night.jpeg) |
-| <img src="pfps/anime-girl-cherry-blossoms-matching-profile.jpeg" width="120" alt="anime-girl-cherry-blossoms-matching-profile"> | [anime-girl-cherry-blossoms-matching-profile.jpeg](pfps/anime-girl-cherry-blossoms-matching-profile.jpeg) |
-| <img src="pfps/anime-monochrome.jpeg" width="120" alt="anime-monochrome"> | [anime-monochrome.jpeg](pfps/anime-monochrome.jpeg) |
-| <img src="pfps/anime-schoolboy-suit-and-tie.jpeg" width="120" alt="anime-schoolboy-suit-and-tie"> | [anime-schoolboy-suit-and-tie.jpeg](pfps/anime-schoolboy-suit-and-tie.jpeg) |
-| <img src="pfps/black-haired-anime-boy-hands-behind-head.jpeg" width="120" alt="black-haired-anime-boy-hands-behind-head"> | [black-haired-anime-boy-hands-behind-head.jpeg](pfps/black-haired-anime-boy-hands-behind-head.jpeg) |
-| <img src="pfps/black-haired-anime-boy-misty-road.jpeg" width="120" alt="black-haired-anime-boy-misty-road"> | [black-haired-anime-boy-misty-road.jpeg](pfps/black-haired-anime-boy-misty-road.jpeg) |
-| <img src="pfps/chrismas-gojo.jpeg" width="120" alt="chrismas-gojo"> | [chrismas-gojo.jpeg](pfps/chrismas-gojo.jpeg) |
-| <img src="pfps/codingDP.jpeg" width="120" alt="codingDP"> | [codingDP.jpeg](pfps/codingDP.jpeg) |
-| <img src="pfps/cristiano-ronaldo-manchester-united.jpeg" width="120" alt="cristiano-ronaldo-manchester-united"> | [cristiano-ronaldo-manchester-united.jpeg](pfps/cristiano-ronaldo-manchester-united.jpeg) |
-| <img src="pfps/denji.jpg" width="120" alt="denji"> | [denji.jpg](pfps/denji.jpg) |
-| <img src="pfps/gojo-with-a-totem.jpeg" width="120" alt="gojo-with-a-totem"> | [gojo-with-a-totem.jpeg](pfps/gojo-with-a-totem.jpeg) |
-| <img src="pfps/isagi-yoichi-flower-field.jpeg" width="120" alt="isagi-yoichi-flower-field"> | [isagi-yoichi-flower-field.jpeg](pfps/isagi-yoichi-flower-field.jpeg) |
-| <img src="pfps/kiyotaka-ayanokoji-matching-profile.jpeg" width="120" alt="kiyotaka-ayanokoji-matching-profile"> | [kiyotaka-ayanokoji-matching-profile.jpeg](pfps/kiyotaka-ayanokoji-matching-profile.jpeg) |
-| <img src="pfps/miyano-hiding-behind-book.jpeg" width="120" alt="miyano-hiding-behind-book"> | [miyano-hiding-behind-book.jpeg](pfps/miyano-hiding-behind-book.jpeg) |
-| <img src="pfps/nagi-seishiro-drinking-sunset-field.jpeg" width="120" alt="nagi-seishiro-drinking-sunset-field"> | [nagi-seishiro-drinking-sunset-field.jpeg](pfps/nagi-seishiro-drinking-sunset-field.jpeg) |
-| <img src="pfps/nayoya.jpeg" width="120" alt="nayoya"> | [nayoya.jpeg](pfps/nayoya.jpeg) |
-| <img src="pfps/orange-haired-anime-boy-flower-garden.jpg" width="120" alt="orange-haired-anime-boy-flower-garden"> | [orange-haired-anime-boy-flower-garden.jpg](pfps/orange-haired-anime-boy-flower-garden.jpg) |
-| <img src="pfps/reze" width="120" alt="reze"> | [reze](pfps/reze) |
-| <img src="pfps/sasaki-resting-on-classroom-desk.jpeg" width="120" alt="sasaki-resting-on-classroom-desk"> | [sasaki-resting-on-classroom-desk.jpeg](pfps/sasaki-resting-on-classroom-desk.jpeg) |
-| <img src="pfps/silver-haired-anime-schoolgirl.jpeg" width="120" alt="silver-haired-anime-schoolgirl"> | [silver-haired-anime-schoolgirl.jpeg](pfps/silver-haired-anime-schoolgirl.jpeg) |
-| <img src="pfps/suzune-horikita-matching-profile.jpeg" width="120" alt="suzune-horikita-matching-profile"> | [suzune-horikita-matching-profile.jpeg](pfps/suzune-horikita-matching-profile.jpeg) |
-| <img src="pfps/white-haired-anime-boy-rainy-street.jpeg" width="120" alt="white-haired-anime-boy-rainy-street"> | [white-haired-anime-boy-rainy-street.jpeg](pfps/white-haired-anime-boy-rainy-street.jpeg) |
-| <img src="pfps/white-haired-anime-boy-sunset-road.jpeg" width="120" alt="white-haired-anime-boy-sunset-road"> | [white-haired-anime-boy-sunset-road.jpeg](pfps/white-haired-anime-boy-sunset-road.jpeg) |
-| <img src="pfps/anime-boy-snowy-forest-matching-profile.jpeg" width="120" alt="anime-boy-snowy-forest-matching-profile"> | [anime-boy-snowy-forest-matching-profile.jpeg](pfps/anime-boy-snowy-forest-matching-profile.jpeg) |
-| <img src="pfps/anime-girl-snowy-forest-matching-profile.jpeg" width="120" alt="anime-girl-snowy-forest-matching-profile"> | [anime-girl-snowy-forest-matching-profile.jpeg](pfps/anime-girl-snowy-forest-matching-profile.jpeg) |
-| <img src="pfps/anime-girl-library-matching-profile.jpeg" width="120" alt="anime-girl-library-matching-profile"> | [anime-girl-library-matching-profile.jpeg](pfps/anime-girl-library-matching-profile.jpeg) |
-| <img src="pfps/anime-boy-library-matching-profile.jpeg" width="120" alt="anime-boy-library-matching-profile"> | [anime-boy-library-matching-profile.jpeg](pfps/anime-boy-library-matching-profile.jpeg) |
-| <img src="pfps/anime-girl-classroom-matching-profile.jpg" width="120" alt="anime-girl-classroom-matching-profile"> | [anime-girl-classroom-matching-profile.jpg](pfps/anime-girl-classroom-matching-profile.jpg) |
-| <img src="pfps/anime-boy-classroom-matching-profile.jpg" width="120" alt="anime-boy-classroom-matching-profile"> | [anime-boy-classroom-matching-profile.jpg](pfps/anime-boy-classroom-matching-profile.jpg) |
-| <img src="pfps/anime-boy-ponytail-matching-profile.jpg" width="120" alt="anime-boy-ponytail-matching-profile"> | [anime-boy-ponytail-matching-profile.jpg](pfps/anime-boy-ponytail-matching-profile.jpg) |
-| <img src="pfps/dark-haired-fantasy-man-garden-matching-profile.jpg" width="120" alt="dark-haired-fantasy-man-garden-matching-profile"> | [dark-haired-fantasy-man-garden-matching-profile.jpg](pfps/dark-haired-fantasy-man-garden-matching-profile.jpg) |
-| <img src="pfps/silver-haired-fantasy-man-straw-hat-matching-profile.jpg" width="120" alt="silver-haired-fantasy-man-straw-hat-matching-profile"> | [silver-haired-fantasy-man-straw-hat-matching-profile.jpg](pfps/silver-haired-fantasy-man-straw-hat-matching-profile.jpg) |
-| <img src="pfps/anime-girl-flower-hairpin-matching-profile.jpg" width="120" alt="anime-girl-flower-hairpin-matching-profile"> | [anime-girl-flower-hairpin-matching-profile.jpg](pfps/anime-girl-flower-hairpin-matching-profile.jpg) |
-| <img src="pfps/garou-cosmic-form.jpg" width="120" alt="Garou cosmic form"> | [garou-cosmic-form.jpg](pfps/garou-cosmic-form.jpg) |
-| <img src="pfps/man-in-tuxedo-portrait.jpg" width="120" alt="man-in-tuxedo-portrait"> | [man-in-tuxedo-portrait.jpg](pfps/man-in-tuxedo-portrait.jpg) |
-| <img src="pfps/anime-boy-monochrome-smoke-portrait.jpg" width="120" alt="anime-boy-monochrome-smoke-portrait"> | [anime-boy-monochrome-smoke-portrait.jpg](pfps/anime-boy-monochrome-smoke-portrait.jpg) |
+| <a href="pfps/individual/L%20lawliet%20icon.jpeg"><img src="pfps/individual/L%20lawliet%20icon.jpeg" width="160" alt="L lawliet icon"></a> | [L lawliet icon.jpeg](pfps/individual/L%20lawliet%20icon.jpeg) |
+| <a href="pfps/individual/Nagi%20Seishiro%20summer%20pfp.jpeg"><img src="pfps/individual/Nagi%20Seishiro%20summer%20pfp.jpeg" width="160" alt="Nagi Seishiro summer pfp"></a> | [Nagi Seishiro summer pfp.jpeg](pfps/individual/Nagi%20Seishiro%20summer%20pfp.jpeg) |
+| <a href="pfps/individual/Nagi-at-MCd.jpeg"><img src="pfps/individual/Nagi-at-MCd.jpeg" width="160" alt="Nagi-at-MCd"></a> | [Nagi-at-MCd.jpeg](pfps/individual/Nagi-at-MCd.jpeg) |
+| <a href="pfps/individual/Yuji.jpeg"><img src="pfps/individual/Yuji.jpeg" width="160" alt="Yuji"></a> | [Yuji.jpeg](pfps/individual/Yuji.jpeg) |
+| <a href="pfps/individual/anime-boy-monochrome-smoke-portrait.jpg"><img src="pfps/individual/anime-boy-monochrome-smoke-portrait.jpg" width="160" alt="anime-boy-monochrome-smoke-portrait"></a> | [anime-boy-monochrome-smoke-portrait.jpg](pfps/individual/anime-boy-monochrome-smoke-portrait.jpg) |
+| <a href="pfps/individual/anime-couple-flower-garden.jpg"><img src="pfps/individual/anime-couple-flower-garden.jpg" width="160" alt="anime-couple-flower-garden"></a> | [anime-couple-flower-garden.jpg](pfps/individual/anime-couple-flower-garden.jpg) |
+| <a href="pfps/individual/anime-couple-snowy-night.jpeg"><img src="pfps/individual/anime-couple-snowy-night.jpeg" width="160" alt="anime-couple-snowy-night"></a> | [anime-couple-snowy-night.jpeg](pfps/individual/anime-couple-snowy-night.jpeg) |
+| <a href="pfps/individual/anime-monochrome.jpeg"><img src="pfps/individual/anime-monochrome.jpeg" width="160" alt="anime-monochrome"></a> | [anime-monochrome.jpeg](pfps/individual/anime-monochrome.jpeg) |
+| <a href="pfps/individual/black-haired-anime-boy-hands-behind-head.jpeg"><img src="pfps/individual/black-haired-anime-boy-hands-behind-head.jpeg" width="160" alt="black-haired-anime-boy-hands-behind-head"></a> | [black-haired-anime-boy-hands-behind-head.jpeg](pfps/individual/black-haired-anime-boy-hands-behind-head.jpeg) |
+| <a href="pfps/individual/black-haired-anime-boy-misty-road.jpeg"><img src="pfps/individual/black-haired-anime-boy-misty-road.jpeg" width="160" alt="black-haired-anime-boy-misty-road"></a> | [black-haired-anime-boy-misty-road.jpeg](pfps/individual/black-haired-anime-boy-misty-road.jpeg) |
+| <a href="pfps/individual/chrismas-gojo.jpeg"><img src="pfps/individual/chrismas-gojo.jpeg" width="160" alt="chrismas-gojo"></a> | [chrismas-gojo.jpeg](pfps/individual/chrismas-gojo.jpeg) |
+| <a href="pfps/individual/codingDP.jpeg"><img src="pfps/individual/codingDP.jpeg" width="160" alt="codingDP"></a> | [codingDP.jpeg](pfps/individual/codingDP.jpeg) |
+| <a href="pfps/individual/cristiano-ronaldo-manchester-united.jpeg"><img src="pfps/individual/cristiano-ronaldo-manchester-united.jpeg" width="160" alt="cristiano-ronaldo-manchester-united"></a> | [cristiano-ronaldo-manchester-united.jpeg](pfps/individual/cristiano-ronaldo-manchester-united.jpeg) |
+| <a href="pfps/individual/garou-cosmic-form.jpg"><img src="pfps/individual/garou-cosmic-form.jpg" width="160" alt="garou-cosmic-form"></a> | [garou-cosmic-form.jpg](pfps/individual/garou-cosmic-form.jpg) |
+| <a href="pfps/individual/gojo-with-a-totem.jpeg"><img src="pfps/individual/gojo-with-a-totem.jpeg" width="160" alt="gojo-with-a-totem"></a> | [gojo-with-a-totem.jpeg](pfps/individual/gojo-with-a-totem.jpeg) |
+| <a href="pfps/individual/isagi-yoichi-flower-field.jpeg"><img src="pfps/individual/isagi-yoichi-flower-field.jpeg" width="160" alt="isagi-yoichi-flower-field"></a> | [isagi-yoichi-flower-field.jpeg](pfps/individual/isagi-yoichi-flower-field.jpeg) |
+| <a href="pfps/individual/man-in-tuxedo-portrait.jpg"><img src="pfps/individual/man-in-tuxedo-portrait.jpg" width="160" alt="man-in-tuxedo-portrait"></a> | [man-in-tuxedo-portrait.jpg](pfps/individual/man-in-tuxedo-portrait.jpg) |
+| <a href="pfps/individual/nagi-seishiro-drinking-sunset-field.jpeg"><img src="pfps/individual/nagi-seishiro-drinking-sunset-field.jpeg" width="160" alt="nagi-seishiro-drinking-sunset-field"></a> | [nagi-seishiro-drinking-sunset-field.jpeg](pfps/individual/nagi-seishiro-drinking-sunset-field.jpeg) |
+| <a href="pfps/individual/nayoya.jpeg"><img src="pfps/individual/nayoya.jpeg" width="160" alt="nayoya"></a> | [nayoya.jpeg](pfps/individual/nayoya.jpeg) |
+| <a href="pfps/individual/orange-haired-anime-boy-flower-garden.jpg"><img src="pfps/individual/orange-haired-anime-boy-flower-garden.jpg" width="160" alt="orange-haired-anime-boy-flower-garden"></a> | [orange-haired-anime-boy-flower-garden.jpg](pfps/individual/orange-haired-anime-boy-flower-garden.jpg) |
+| <a href="pfps/individual/white-haired-anime-boy-rainy-street.jpeg"><img src="pfps/individual/white-haired-anime-boy-rainy-street.jpeg" width="160" alt="white-haired-anime-boy-rainy-street"></a> | [white-haired-anime-boy-rainy-street.jpeg](pfps/individual/white-haired-anime-boy-rainy-street.jpeg) |
+| <a href="pfps/individual/white-haired-anime-boy-sunset-road.jpeg"><img src="pfps/individual/white-haired-anime-boy-sunset-road.jpeg" width="160" alt="white-haired-anime-boy-sunset-road"></a> | [white-haired-anime-boy-sunset-road.jpeg](pfps/individual/white-haired-anime-boy-sunset-road.jpeg) |
