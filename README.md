@@ -1,6 +1,6 @@
 # Profile pictures
 
-A personal collection of 46 pictures: **24 individual pictures** and **11 matching sets**.
+A personal collection of 46 pictures: **22 individual pictures** and **12 matching sets**.
 
 [Individual pictures](#individual-pictures) · [Matching sets](#matching-sets)
 
@@ -25,6 +25,7 @@ Each set has its own folder. Click a preview to open the picture.
 | [School uniforms](pfps/matching/school-uniforms/) | <a href="pfps/matching/school-uniforms/anime-schoolboy-suit-and-tie.jpeg"><img src="pfps/matching/school-uniforms/anime-schoolboy-suit-and-tie.jpeg" width="160" alt="anime-schoolboy-suit-and-tie"></a> | <a href="pfps/matching/school-uniforms/silver-haired-anime-schoolgirl.jpeg"><img src="pfps/matching/school-uniforms/silver-haired-anime-schoolgirl.jpeg" width="160" alt="silver-haired-anime-schoolgirl"></a> |
 | [Rintaro & Waguri](pfps/matching/rintaro-and-waguri/) | <a href="pfps/matching/rintaro-and-waguri/Rintaro.jpg"><img src="pfps/matching/rintaro-and-waguri/Rintaro.jpg" width="160" alt="Rintaro"></a> | <a href="pfps/matching/rintaro-and-waguri/Waguri%20Kaoruko%20matching%20pfp.jpg"><img src="pfps/matching/rintaro-and-waguri/Waguri%20Kaoruko%20matching%20pfp.jpg" width="160" alt="Waguri Kaoruko matching pfp"></a> |
 | [Denji & Reze](pfps/matching/denji-and-reze/) | <a href="pfps/matching/denji-and-reze/denji.jpg"><img src="pfps/matching/denji-and-reze/denji.jpg" width="160" alt="denji"></a> | <a href="pfps/matching/denji-and-reze/reze"><img src="pfps/matching/denji-and-reze/reze" width="160" alt="reze"></a> |
+| [Luffy & Zoro](pfps/matching/luffy-and-zoro/) | <a href="pfps/matching/luffy-and-zoro/monkey-d-luffy-manga-matching-profile.jpeg"><img src="pfps/matching/luffy-and-zoro/monkey-d-luffy-manga-matching-profile.jpeg" width="160" alt="monkey-d-luffy-manga-matching-profile"></a> | <a href="pfps/matching/luffy-and-zoro/roronoa-zoro-manga-matching-profile.jpeg"><img src="pfps/matching/luffy-and-zoro/roronoa-zoro-manga-matching-profile.jpeg" width="160" alt="roronoa-zoro-manga-matching-profile"></a> |
 
 ## Individual pictures
 
@@ -52,5 +53,3 @@ Each set has its own folder. Click a preview to open the picture.
 | <a href="pfps/individual/orange-haired-anime-boy-flower-garden.jpg"><img src="pfps/individual/orange-haired-anime-boy-flower-garden.jpg" width="160" alt="orange-haired-anime-boy-flower-garden"></a> | [orange-haired-anime-boy-flower-garden.jpg](pfps/individual/orange-haired-anime-boy-flower-garden.jpg) |
 | <a href="pfps/individual/white-haired-anime-boy-rainy-street.jpeg"><img src="pfps/individual/white-haired-anime-boy-rainy-street.jpeg" width="160" alt="white-haired-anime-boy-rainy-street"></a> | [white-haired-anime-boy-rainy-street.jpeg](pfps/individual/white-haired-anime-boy-rainy-street.jpeg) |
 | <a href="pfps/individual/white-haired-anime-boy-sunset-road.jpeg"><img src="pfps/individual/white-haired-anime-boy-sunset-road.jpeg" width="160" alt="white-haired-anime-boy-sunset-road"></a> | [white-haired-anime-boy-sunset-road.jpeg](pfps/individual/white-haired-anime-boy-sunset-road.jpeg) |
-| <a href="pfps/individual/monkey-d-luffy-manga.jpeg"><img src="pfps/individual/monkey-d-luffy-manga.jpeg" width="160" alt="monkey-d-luffy-manga"></a> | [monkey-d-luffy-manga.jpeg](pfps/individual/monkey-d-luffy-manga.jpeg) |
-| <a href="pfps/individual/roronoa-zoro-manga.jpeg"><img src="pfps/individual/roronoa-zoro-manga.jpeg" width="160" alt="roronoa-zoro-manga"></a> | [roronoa-zoro-manga.jpeg](pfps/individual/roronoa-zoro-manga.jpeg) |
